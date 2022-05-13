@@ -18,5 +18,5 @@ This is a personal repository to store common configuration files for software I
 ## Use
 
 ```shell
-git clone <this_repository> && cd <this_repository> && sh Install.sh
+git clone git@github.com:dendrobiummoniliforme/Environment.git && cd Environment && sh Install.sh
 ```
