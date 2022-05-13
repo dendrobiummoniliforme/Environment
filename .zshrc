@@ -6,7 +6,7 @@ source ~/.zsh/fast-syntax-highlighting/F-Sy-H.plugin.zsh
 source ~/.zsh/completion.zsh
 
 # Load completion config
-source /Users/dendrobiummoniliforme/.zsh/completion.zsh
+source ~/.zsh/completion.zsh
 
 # Initialize the completion system
 autoload -Uz compinit
