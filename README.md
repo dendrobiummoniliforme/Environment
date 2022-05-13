@@ -17,6 +17,8 @@ This is a personal repository to store common configuration files for software I
 
 ## Use
 
+I have not tested the `Install.sh` file comprehensively. **_Use at your own risk._**
+
 ```shell
 git clone git@github.com:dendrobiummoniliforme/Environment.git && cd Environment && sh Install.sh
 ```
